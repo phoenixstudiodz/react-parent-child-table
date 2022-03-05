@@ -1,0 +1,842 @@
+{
+    "JPY": {
+        "EUR": {
+            "amount": 13191,
+            "scale": 2
+        }
+    },
+    "CNY": {
+        "EUR": {
+            "amount": 728,
+            "scale": 2
+        }
+    },
+    "CHF": {
+        "EUR": {
+            "amount": 105,
+            "scale": 2
+        }
+    },
+    "CAD": {
+        "EUR": {
+            "amount": 146,
+            "scale": 2
+        }
+    },
+    "MXN": {
+        "EUR": {
+            "amount": 2367,
+            "scale": 2
+        }
+    },
+    "INR": {
+        "EUR": {
+            "amount": 8547,
+            "scale": 2
+        }
+    },
+    "BRL": {
+        "EUR": {
+            "amount": 609,
+            "scale": 2
+        }
+    },
+    "RUB": {
+        "EUR": {
+            "amount": 8681,
+            "scale": 2
+        }
+    },
+    "KRW": {
+        "EUR": {
+            "amount": 136776,
+            "scale": 2
+        }
+    },
+    "IDR": {
+        "EUR": {
+            "amount": 1646435,
+            "scale": 2
+        }
+    },
+    "TRY": {
+        "EUR": {
+            "amount": 1553,
+            "scale": 2
+        }
+    },
+    "SAR": {
+        "EUR": {
+            "amount": 429,
+            "scale": 2
+        }
+    },
+    "SEK": {
+        "EUR": {
+            "amount": 1047,
+            "scale": 2
+        }
+    },
+    "NGN": {
+        "EUR": {
+            "amount": 47602,
+            "scale": 2
+        }
+    },
+    "PLN": {
+        "EUR": {
+            "amount": 456,
+            "scale": 2
+        }
+    },
+    "ARS": {
+        "EUR": {
+            "amount": 12058,
+            "scale": 2
+        }
+    },
+    "NOK": {
+        "EUR": {
+            "amount": 1006,
+            "scale": 2
+        }
+    },
+    "TWD": {
+        "EUR": {
+            "amount": 3184,
+            "scale": 2
+        }
+    },
+    "IRR": {
+        "EUR": {
+            "amount": 4809514,
+            "scale": 2
+        }
+    },
+    "AED": {
+        "EUR": {
+            "amount": 420,
+            "scale": 2
+        }
+    },
+    "COP": {
+        "EUR": {
+            "amount": 451886,
+            "scale": 2
+        }
+    },
+    "THB": {
+        "EUR": {
+            "amount": 3776,
+            "scale": 2
+        }
+    },
+    "ZAR": {
+        "EUR": {
+            "amount": 1770,
+            "scale": 2
+        }
+    },
+    "DKK": {
+        "EUR": {
+            "amount": 744,
+            "scale": 2
+        }
+    },
+    "MYR": {
+        "EUR": {
+            "amount": 478,
+            "scale": 2
+        }
+    },
+    "SGD": {
+        "EUR": {
+            "amount": 154,
+            "scale": 2
+        }
+    },
+    "ILS": {
+        "EUR": {
+            "amount": 366,
+            "scale": 2
+        }
+    },
+    "HKD": {
+        "EUR": {
+            "amount": 891,
+            "scale": 2
+        }
+    },
+    "EGP": {
+        "EUR": {
+            "amount": 1798,
+            "scale": 2
+        }
+    },
+    "PHP": {
+        "EUR": {
+            "amount": 5863,
+            "scale": 2
+        }
+    },
+    "CLP": {
+        "EUR": {
+            "amount": 94821,
+            "scale": 2
+        }
+    },
+    "PKR": {
+        "EUR": {
+            "amount": 19939,
+            "scale": 2
+        }
+    },
+    "IQD": {
+        "EUR": {
+            "amount": 166970,
+            "scale": 2
+        }
+    },
+    "DZD": {
+        "EUR": {
+            "amount": 16023,
+            "scale": 2
+        }
+    },
+    "KZT": {
+        "EUR": {
+            "amount": 49420,
+            "scale": 2
+        }
+    },
+    "QAR": {
+        "EUR": {
+            "amount": 417,
+            "scale": 2
+        }
+    },
+    "CZK": {
+        "EUR": {
+            "amount": 2429,
+            "scale": 2
+        }
+    },
+    "PEN": {
+        "EUR": {
+            "amount": 438,
+            "scale": 2
+        }
+    },
+    "RON": {
+        "EUR": {
+            "amount": 494,
+            "scale": 2
+        }
+    },
+    "VND": {
+        "EUR": {
+            "amount": 2593137,
+            "scale": 2
+        }
+    },
+    "BDT": {
+        "EUR": {
+            "amount": 9813,
+            "scale": 2
+        }
+    },
+    "HUF": {
+        "EUR": {
+            "amount": 35436,
+            "scale": 2
+        }
+    },
+    "UAH": {
+        "EUR": {
+            "amount": 3219,
+            "scale": 2
+        }
+    },
+    "AOA": {
+        "EUR": {
+            "amount": 59835,
+            "scale": 2
+        }
+    },
+    "MAD": {
+        "EUR": {
+            "amount": 1065,
+            "scale": 2
+        }
+    },
+    "OMR": {
+        "EUR": {
+            "amount": 44,
+            "scale": 2
+        }
+    },
+    "CUC": {
+        "EUR": {
+            "amount": 2748,
+            "scale": 2
+        }
+    },
+    "BYR": {
+        "EUR": {
+            "amount": 295,
+            "scale": 2
+        }
+    },
+    "AZN": {
+        "EUR": {
+            "amount": 194,
+            "scale": 2
+        }
+    },
+    "LKR": {
+        "EUR": {
+            "amount": 22895,
+            "scale": 2
+        }
+    },
+    "SDG": {
+        "EUR": {
+            "amount": 50419,
+            "scale": 2
+        }
+    },
+    "SYP": {
+        "EUR": {
+            "amount": 287536,
+            "scale": 2
+        }
+    },
+    "MMK": {
+        "EUR": {
+            "amount": 202627,
+            "scale": 2
+        }
+    },
+    "DOP": {
+        "EUR": {
+            "amount": 6586,
+            "scale": 2
+        }
+    },
+    "UZS": {
+        "EUR": {
+            "amount": 1242219,
+            "scale": 2
+        }
+    },
+    "KES": {
+        "EUR": {
+            "amount": 12997,
+            "scale": 2
+        }
+    },
+    "GTQ": {
+        "EUR": {
+            "amount": 881,
+            "scale": 2
+        }
+    },
+    "URY": {
+        "EUR": {
+            "amount": 5012,
+            "scale": 2
+        }
+    },
+    "HRV": {
+        "EUR": {
+            "amount": 752,
+            "scale": 2
+        }
+    },
+    "MOP": {
+        "EUR": {
+            "amount": 919,
+            "scale": 2
+        }
+    },
+    "ETB": {
+        "EUR": {
+            "amount": 5728,
+            "scale": 2
+        }
+    },
+    "CRC": {
+        "EUR": {
+            "amount": 73554,
+            "scale": 2
+        }
+    },
+    "TZS": {
+        "EUR": {
+            "amount": 264292,
+            "scale": 2
+        }
+    },
+    "TMT": {
+        "EUR": {
+            "amount": 399,
+            "scale": 2
+        }
+    },
+    "TND": {
+        "EUR": {
+            "amount": 327,
+            "scale": 2
+        }
+    },
+    "PAB": {
+        "EUR": {
+            "amount": 114,
+            "scale": 2
+        }
+    },
+    "LBP": {
+        "EUR": {
+            "amount": 172419,
+            "scale": 2
+        }
+    },
+    "RSD": {
+        "EUR": {
+            "amount": 11746,
+            "scale": 2
+        }
+    },
+    "LYD": {
+        "EUR": {
+            "amount": 524,
+            "scale": 2
+        }
+    },
+    "GHS": {
+        "EUR": {
+            "amount": 715,
+            "scale": 2
+        }
+    },
+    "YER": {
+        "EUR": {
+            "amount": 28625,
+            "scale": 2
+        }
+    },
+    "BOB": {
+        "EUR": {
+            "amount": 779,
+            "scale": 2
+        }
+    },
+    "BHD": {
+        "EUR": {
+            "amount": 43,
+            "scale": 2
+        }
+    },
+    "CDF": {
+        "EUR": {
+            "amount": 228613,
+            "scale": 2
+        }
+    },
+    "PYG": {
+        "EUR": {
+            "amount": 798145,
+            "scale": 2
+        }
+    },
+    "UGX": {
+        "EUR": {
+            "amount": 400218,
+            "scale": 2
+        }
+    },
+    "SVC": {
+        "EUR": {
+            "amount": 1001,
+            "scale": 2
+        }
+    },
+    "TTD": {
+        "EUR": {
+            "amount": 768,
+            "scale": 2
+        }
+    },
+    "AFN": {
+        "EUR": {
+            "amount": 10868,
+            "scale": 2
+        }
+    },
+    "NPR": {
+        "EUR": {
+            "amount": 13685,
+            "scale": 2
+        }
+    },
+    "HNL": {
+        "EUR": {
+            "amount": 2799,
+            "scale": 2
+        }
+    },
+    "BIH": {
+        "EUR": {
+            "amount": 195,
+            "scale": 2
+        }
+    },
+    "BND": {
+        "EUR": {
+            "amount": 154,
+            "scale": 2
+        }
+    },
+    "ISK": {
+        "EUR": {
+            "amount": 14276,
+            "scale": 2
+        }
+    },
+    "KHR": {
+        "EUR": {
+            "amount": 464572,
+            "scale": 2
+        }
+    },
+    "GEL": {
+        "EUR": {
+            "amount": 339,
+            "scale": 2
+        }
+    },
+    "MZN": {
+        "EUR": {
+            "amount": 7236,
+            "scale": 2
+        }
+    },
+    "BWP": {
+        "EUR": {
+            "amount": 1326,
+            "scale": 2
+        }
+    },
+    "PGK": {
+        "EUR": {
+            "amount": 402,
+            "scale": 2
+        }
+    },
+    "JMD": {
+        "EUR": {
+            "amount": 17795,
+            "scale": 2
+        }
+    },
+    "XAF": {
+        "EUR": {
+            "amount": 65505,
+            "scale": 2
+        }
+    },
+    "NAD": {
+        "EUR": {
+            "amount": 1773,
+            "scale": 2
+        }
+    },
+    "ALL": {
+        "EUR": {
+            "amount": 12120,
+            "scale": 2
+        }
+    },
+    "SSP": {
+        "EUR": {
+            "amount": 48860,
+            "scale": 2
+        }
+    },
+    "MUR": {
+        "EUR": {
+            "amount": 4969,
+            "scale": 2
+        }
+    },
+    "MNT": {
+        "EUR": {
+            "amount": 325211,
+            "scale": 2
+        }
+    },
+    "NIO": {
+        "EUR": {
+            "amount": 4075,
+            "scale": 2
+        }
+    },
+    "LAK": {
+        "EUR": {
+            "amount": 1296321,
+            "scale": 2
+        }
+    },
+    "MKD": {
+        "EUR": {
+            "amount": 6216,
+            "scale": 2
+        }
+    },
+    "AMD": {
+        "EUR": {
+            "amount": 55036,
+            "scale": 2
+        }
+    },
+    "MGA": {
+        "EUR": {
+            "amount": 455714,
+            "scale": 2
+        }
+    },
+    "XPF": {
+        "EUR": {
+            "amount": 11900,
+            "scale": 2
+        }
+    },
+    "TJS": {
+        "EUR": {
+            "amount": 1291,
+            "scale": 2
+        }
+    },
+    "HTG": {
+        "EUR": {
+            "amount": 11451,
+            "scale": 2
+        }
+    },
+    "BSD": {
+        "EUR": {
+            "amount": 114,
+            "scale": 2
+        }
+    },
+    "MDL": {
+        "EUR": {
+            "amount": 2038,
+            "scale": 2
+        }
+    },
+    "RWF": {
+        "EUR": {
+            "amount": 114876,
+            "scale": 2
+        }
+    },
+    "KGS": {
+        "EUR": {
+            "amount": 9710,
+            "scale": 2
+        }
+    },
+    "GNF": {
+        "EUR": {
+            "amount": 1032891,
+            "scale": 2
+        }
+    },
+    "SRD": {
+        "EUR": {
+            "amount": 2357,
+            "scale": 2
+        }
+    },
+    "SLL": {
+        "EUR": {
+            "amount": 1294107,
+            "scale": 2
+        }
+    },
+    "XOF": {
+        "EUR": {
+            "amount": 65156,
+            "scale": 2
+        }
+    },
+    "MWK": {
+        "EUR": {
+            "amount": 91065,
+            "scale": 2
+        }
+    },
+    "FJD": {
+        "EUR": {
+            "amount": 245,
+            "scale": 2
+        }
+    },
+    "ERN": {
+        "EUR": {
+            "amount": 1725,
+            "scale": 2
+        }
+    },
+    "SZL": {
+        "EUR": {
+            "amount": 1766,
+            "scale": 2
+        }
+    },
+    "GYD": {
+        "EUR": {
+            "amount": 23817,
+            "scale": 2
+        }
+    },
+    "BIF": {
+        "EUR": {
+            "amount": 228541,
+            "scale": 2
+        }
+    },
+    "KYD": {
+        "EUR": {
+            "amount": 94,
+            "scale": 2
+        }
+    },
+    "MVR": {
+        "EUR": {
+            "amount": 1765,
+            "scale": 2
+        }
+    },
+    "LSL": {
+        "EUR": {
+            "amount": 1766,
+            "scale": 2
+        }
+    },
+    "LRD": {
+        "EUR": {
+            "amount": 17405,
+            "scale": 2
+        }
+    },
+    "CVE": {
+        "EUR": {
+            "amount": 11029,
+            "scale": 2
+        }
+    },
+    "DJF": {
+        "EUR": {
+            "amount": 20325,
+            "scale": 2
+        }
+    },
+    "SCR": {
+        "EUR": {
+            "amount": 1618,
+            "scale": 2
+        }
+    },
+    "SOS": {
+        "EUR": {
+            "amount": 65843,
+            "scale": 2
+        }
+    },
+    "GMD": {
+        "EUR": {
+            "amount": 6069,
+            "scale": 2
+        }
+    },
+    "KMF": {
+        "EUR": {
+            "amount": 49292,
+            "scale": 2
+        }
+    },
+    "STD": {
+        "EUR": {
+            "amount": 2448,
+            "scale": 2
+        }
+    },
+    "BTC": {
+        "EUR": {
+            "amount": 2,
+            "scale": 2
+        }
+    },
+    "XRP": {
+        "EUR": {
+            "amount": 179,
+            "scale": 2
+        }
+    },
+    "AUD": {
+        "EUR": {
+            "amount": 161,
+            "scale": 2
+        }
+    },
+    "BGN": {
+        "EUR": {
+            "amount": 195,
+            "scale": 2
+        }
+    },
+    "JOD": {
+        "EUR": {
+            "amount": 80,
+            "scale": 2
+        }
+    },
+    "GBP": {
+        "EUR": {
+            "amount": 84,
+            "scale": 2
+        }
+    },
+    "ETH": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "EUR": {
+        "EUR": {
+            "amount": 100,
+            "scale": 2
+        }
+    },
+    "LTC": {
+        "EUR": {
+            "amount": 0,
+            "scale": 2
+        }
+    },
+    "NZD": {
+        "EUR": {
+            "amount": 173,
+            "scale": 2
+        }
+    },
+    "USD": {
+        "EUR": {
+            "amount": 114,
+            "scale": 2
+        }
+    }
+}
